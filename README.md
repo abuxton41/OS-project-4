@@ -1,3 +1,3 @@
-# OS-project-4
+# Scheduler
 
 C program that models processor scheduling.
